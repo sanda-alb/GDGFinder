@@ -128,8 +128,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|end"
             android:layout_margin="@dimen/spacing_normal"
+            android:onClick="@{() -> viewModel.onFabClicked()}"
             app:srcCompat="@drawable/ic_gdg"
-            android:onClick="@{() -> viewModel.onFabClicked()}"/>
+            tools:ignore="SpeakableTextPresentCheck" />
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 </layout>
