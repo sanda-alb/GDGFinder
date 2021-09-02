@@ -87,7 +87,7 @@ dependencies {
     implementation "androidx.recyclerview:recyclerview:$version_recyclerview"
 
     // material design components
-    implementation 'com.google.android.material:material:1.2.0'
+    implementation 'com.google.android.material:material:1.4.0'
 
     // Client for retrieving location
     implementation "com.google.android.gms:play-services-location:18.0.0"
