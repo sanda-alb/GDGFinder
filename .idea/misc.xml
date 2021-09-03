@@ -5,9 +5,11 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_gdg.xml" value="0.39794871794871794" />
         <entry key="app/src/main/res/font/lobster_two.xml" value="0.4117948717948718" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/add_gdg_fragment.xml" value="0.31068840579710144" />
         <entry key="app/src/main/res/layout/fragment_gdg_list.xml" value="0.1887031408308004" />
         <entry key="app/src/main/res/layout/home_fragment.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.13518518518518519" />
       </map>
     </option>
   </component>
